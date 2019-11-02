@@ -1,0 +1,31 @@
+TrainId|Station|ScheduledDepartureTime|ActualDepartureTime|DriverName|
+2F29|London Waterloo|2018-09-04T14:30:00|2018-09-04T14:30:30|John Scott
+|2F29|Vauxhall|2018-09-04T14:35:00|2018-09-04T14:35:40|John Scott|
+2D29|London Waterloo|2018-09-04T14:32:00|2018-09-04T14:32:30|John Major
+|2D29|Vauxhall|2018-09-04T14:35:00|2018-09-04T14:35:00|John Major
+|5Y41|London Waterloo|2018-09-04T14:35:00|2018-09-04T14:36:10|Andrew Lees
+|5Y41|Vauxhall|2018-09-04T14:40:00|2018-09-04T14:41:10|Andrew Lees
+|2C33|London Waterloo|2018-09-04T14:40:00|2018-09-04T14:40:20|Barry Williams
+|2C33|Vauxhall|2018-09-04T14:44:00|2018-09-04T14:44:00|Barry Williams
+|2C33|Clapham Junction|2018-09-04T14:52:00|2018-09-04T14:52:30|Barry Williams|
+2D29|Clapham Junction|2018-09-04T14:40:00|2018-09-04T14:40:20|John Major
+|2D29|Wimbledon|2018-09-04T14:50:00|2018-09-04T14:50:00|John Major|
+2D29|Epsom|2018-09-04T14:55:00|2018-09-04T14:56:30|John Major
+|2D29|Guildford|NA|NA|John Major|
+2F29|Clapham Junction|2018-09-04T14:47:00|2018-09-04T14:47:00|John Scott
+|2F29|Wimbledon|2018-09-04T14:59:00|2018-09-04T14:58:30|John Scott|
+2F29|Surbiton|2018-09-04T15:08:00|2018-09-04T15:07:50|John Scott
+|2F29|Esher|2018-09-04T15:13:00|2018-09-04T15:13:20|Shane Watson|
+2C33|Richmond|2018-09-04T14:59:00|2018-09-04T14:59:40|Barry Williams
+|2C33|Twickenham|2018-09-04T15:09:00|2018-09-04T15:09:10|Barry Williams
+|2F29|Hersham|2018-09-04T15:22:00|2018-09-04T15:22:10|Shane Watson|
+2F29|Walton on Thames|2018-09-04T15:35:00|2018-09-04T15:37:50|Shane Watson
+|2F29|Weybridge|2018-09-04T15:44:00|2018-09-04T15:48:20|Shane Watson
+2C33|Feltham|2018-09-04T15:15:00|2018-09-04T15:18:20|Barry Williams
+|2C33|Staines|2018-09-04T15:22:00|2018-09-04T15:23:00|Barry Williams
+|5Y41|Clapham Yard|2018-09-04T14:50:00|2018-09-04T14:50:40|Andrew Lees|
+5Y41|Clapham Yard Sidings|NA|NA|Andrew Lees
+|2C33|Virginia Water|2018-09-04T15:27:00|2018-09-04T15:26:30|Alastair Philps|
+2C33|Sunningdale|2018-09-04T15:35:00|2018-09-04T15:34:00|Alastair Philps|
+2C33|Wokingham|2018-09-04T15:44:00|2018-09-04T15:42:30|Alastair Philps|
+2C33|Winnersh|2018-09-04T15:56:00|2018-09-04T15:55:10|Alastair Philps
